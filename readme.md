@@ -8,17 +8,17 @@ LICENSE: [MIT](license.md)
 
 ### Содержание:
 1. [Инициализация репозитория](git-init.md)
-2. [Добавление изменений (git add)](git-add.md)
-3. [Фиксация изменений (git commit)](git-commit.md)
-4. [Отправка изменений (git push)](git-push.md)
-5. [Получение изменений (git pull)](git-pull.md)
-6. [Работа с ветками (git branch)](git-branch.md)
-7. [Слияние веток (git merge)](git-merge.md)
-8. [Сравнение изменений (git diff)](git-diff.md)
-9. [Просмотр истории коммитов (git log)](git-log.md)
-10. [Работа с тегами (git tag)](git-tag.md)
-11. [Настройка Git (git config)](git-config.md)
-12. [Создание файла .gitignore](gitignore.md)
+2. [Добавление изменений `git add`](git-add.md)
+3. [Фиксация изменений `git commit`](git-commit.md)
+4. [Отправка изменений `git push`](git-push.md)
+5. [Получение изменений `git pull`](git-pull.md)
+6. [Работа с ветками `git branch`](git-branch.md)
+7. [Слияние веток `git merge`](git-merge.md)
+8. [Сравнение изменений `git diff`](git-diff.md)
+9. [Просмотр истории коммитов `git log`](git-log.md)
+10. [Работа с тегами `git tag`](git-tag.md)
+11. [Настройка Git `git config`](git-config.md)
+12. [Создание файла `.gitignore`](gitignore.md)
 
 
 ---
