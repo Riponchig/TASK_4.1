@@ -4,11 +4,11 @@
 
 ### Примеры:
 1. Настройка имени пользователя:
-```bash=
+```bash
 git config --global user.name "Ваше имя"
 ```
 2. Настройка электронной почты:
-```bash=
+```bash
 git config --global user.email "email@example.com"
 ```
 
